@@ -1,0 +1,14 @@
+C:\Users\APM02-066\Documents\Trowa\.net_c#\primerProyecto\bin\Debug\net7.0\primerProyecto.exe
+C:\Users\APM02-066\Documents\Trowa\.net_c#\primerProyecto\bin\Debug\net7.0\primerProyecto.deps.json
+C:\Users\APM02-066\Documents\Trowa\.net_c#\primerProyecto\bin\Debug\net7.0\primerProyecto.runtimeconfig.json
+C:\Users\APM02-066\Documents\Trowa\.net_c#\primerProyecto\bin\Debug\net7.0\primerProyecto.dll
+C:\Users\APM02-066\Documents\Trowa\.net_c#\primerProyecto\bin\Debug\net7.0\primerProyecto.pdb
+C:\Users\APM02-066\Documents\Trowa\.net_c#\primerProyecto\obj\Debug\net7.0\primerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-066\Documents\Trowa\.net_c#\primerProyecto\obj\Debug\net7.0\primerProyecto.AssemblyInfoInputs.cache
+C:\Users\APM02-066\Documents\Trowa\.net_c#\primerProyecto\obj\Debug\net7.0\primerProyecto.AssemblyInfo.cs
+C:\Users\APM02-066\Documents\Trowa\.net_c#\primerProyecto\obj\Debug\net7.0\primerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\APM02-066\Documents\Trowa\.net_c#\primerProyecto\obj\Debug\net7.0\primerProyecto.dll
+C:\Users\APM02-066\Documents\Trowa\.net_c#\primerProyecto\obj\Debug\net7.0\refint\primerProyecto.dll
+C:\Users\APM02-066\Documents\Trowa\.net_c#\primerProyecto\obj\Debug\net7.0\primerProyecto.pdb
+C:\Users\APM02-066\Documents\Trowa\.net_c#\primerProyecto\obj\Debug\net7.0\primerProyecto.genruntimeconfig.cache
+C:\Users\APM02-066\Documents\Trowa\.net_c#\primerProyecto\obj\Debug\net7.0\ref\primerProyecto.dll
